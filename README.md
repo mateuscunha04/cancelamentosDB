@@ -18,7 +18,7 @@
 
 3) Frequência de uso: quão menor o uso maior é a chance de cancelamento.
 
-4) Última utilização: 2 a cada 3 usuários cancelam depois dos primeiros 15 meses de uso.
+4) Última utilização: 2 a cada 3 usuários cancelam depois dos 15 dias.
 
 5) Ligações Call Center: a partir de 5 ligações os clientes não querem continuar com os serviços.
 
@@ -27,3 +27,15 @@
 7) Dias de atraso do pagamento: depois dos 20 dias de atraso não existe mais continuação.
 
 ## Soluções
+
+1) Disponibilizar mais conteúdo para o público feminino: talvez 2/3 da mulheres estejam cancelando pela falta de conteúdo destinado à elas.
+
+2) Primeiro mês gratuito: isto reduziria os cancelamentos dos contratos mensais e dos novos clientes.
+
+3) Maior acessibilidade: um sistema mais simples facilitaria o uso dos clientes acima dos 50 anos.
+
+4) Melhor comunicação: o Call Center têm sido pouco efetivo, já que muitos clientes não acharam respostas para seus problemas mesmo depois de 5 ligações.
+
+5) Oferecer pagamento em parcelas: clientes enfrentam dificuldades ao pagar atrasos de 20 dias, o pagamento em parcelas poderia minimizar as dívidas.
+
+6) Melhor apresentação dos serviços: clientes com gastos e frequências menores veem poucos motivos para investirem mais dinheiro no sistema.

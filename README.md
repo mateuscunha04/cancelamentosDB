@@ -1,8 +1,8 @@
 # cancelamentosDB
 
-##Tendências de perfil de **cancelamento**
+## Tendências de perfil de **cancelamento**
 
-###Categorias qualitativas
+### Categorias qualitativas
 
 1) Sexo: homens são a maioria, porém as mulheres tendem a cancelar mais do que  o público masculino, sendo 2 a cada 3 mulheres.
 
@@ -10,7 +10,7 @@
 
 3) Tipo da assinatura: igualmente, estão distribuídas entre os clientes, apresentando quase 60% de cancelamento em todas as opções.
 
-###Categorias quantitativas
+### Categorias quantitativas
 
 1) Idade: 
 

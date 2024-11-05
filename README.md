@@ -1,6 +1,6 @@
 # cancelamentosDB
 
-## Tendências de perfil & **cancelamento**
+## Tendências de perfil & *cancelamento*
 
 ### Categorias qualitativas
 

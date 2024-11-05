@@ -20,7 +20,7 @@
 
 4) Última utilização: 2 a cada 3 usuários cancelam depois dos primeiros 15 meses de uso.
 
-5) Ligações CallCenter: a partir de 5 ligações os clientes não querem continuar com os serviços.
+5) Ligações Call Center: a partir de 5 ligações os clientes não querem continuar com os serviços.
 
 6) Total gasto: usuários com gastos menores que 500 reais buscam a desistência.
 

@@ -20,7 +20,7 @@
 
 4) Última utilização: 
 
-5) Liçações CallCenter: 
+5) Ligações CallCenter: 
 
 6) Total gasto: 
 

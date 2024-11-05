@@ -12,16 +12,18 @@
 
 ### Categorias quantitativas
 
-1) Idade: 
+1) Idade: pessoas com mais de 50 anos são mais propícias a cancelar o contrato.
 
-2) Tempo como cliente: 
+2) Tempo como cliente: existe uma instabilidade durante os primeiros 5 meses de uso e no segundo ano.
 
-3) Frequência de uso: 
+3) Frequência de uso: quão menor o uso maior é a chance de cancelamento.
 
-4) Última utilização: 
+4) Última utilização: 2 a cada 3 usuários cancelam depois dos primeiros 15 meses de uso.
 
-5) Ligações CallCenter: 
+5) Ligações CallCenter: a partir de 5 ligações os clientes não querem continuar com os serviços.
 
-6) Total gasto: 
+6) Total gasto: usuários com gastos menores que 500 reais buscam a desistência.
 
-7) Dias de atraso do pagamento: 
+7) Dias de atraso do pagamento: depois dos 20 dias de atraso não existe mais continuação.
+
+## Soluções
